@@ -1,6 +1,6 @@
 # JSConf Uruguay - Talks
 
-![](./small-logo.svg)
+![](/small-logo.svg)
 
 
 
@@ -53,12 +53,6 @@
 - [http://www.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron-jsconf-uy](http://www.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron-jsconf-uy)
 #### Recommended reads
 - [Awesome Electron - Sindre Sorhus](https://github.com/sindresorhus/awesome-electron)
-- Exploring ES6 - Axel Rauschmayer
-- YDKJS: ES6 & Beyond - Kyle Simpson
-- Javascript at 20 - Brendan Eich
-- Virtual Machines, Js and Assembler - Scott Hanselman
-- Evolution of Js III
-
 
 
 
