@@ -2,9 +2,13 @@
 
 ![](/small-logo.svg)
 
+# Talks
+#### First day
+- [The !future of JS.](#the-future-of-js)
+- [Let's Talk About Midi](#lets-talk-about-midi)
 
 
-## The !future of JS.
+## <a name="the-future-of-js"></a>The !future of JS.
 ### by [Alejandro Oviedo](github.com/a0viedo)
 #### Slides
 - [http://slides.com/a0viedo/the-future-of-js](http://slides.com/a0viedo/the-future-of-js)
@@ -27,7 +31,7 @@
 
 
 
-## Let's Talk About Midi
+##  <a name="lets-talk-about-midi"></a>Let's Talk About Midi
 ### by [Ruth John](https://github.com/Rumyra)
 #### Slides
 - [https://github.com/Rumyra/MIDI-Talk/tree/JSConfUY](https://github.com/Rumyra/MIDI-Talk/tree/JSConfUY)
