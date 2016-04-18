@@ -1,6 +1,6 @@
 # JSConf Uruguay - Talks
 
-![](/small-logo.svg)
+![](https://cdn.rawgit.com/fforres/JSConfUY/master/small-logo.svg)
 
 # Talks
 
@@ -12,8 +12,13 @@
 - [Lateralus: A Distributed Relay System In Javascript - by Raul Pino](#lateralus-a-distributed-relay-system-in-javascript)
 - [Taking on Genetically Evolving Cellular Automata with JavaScript - by Irina Shestak](#taking-on-genetically-evolving-cellular-automata-with-javascript)
 - [Real time front-end alchemy - by Soledad Penadés](#real-time-front-end-alchemy)
+- [Why Johnny cant't collect browser errors - by Ben Vinegar](#why-johnny-cantt-collect-browser-errors-by-ben-vinegar)
+- [Taking on Genetically Evolving Cellular Automata with JavaScript - by Irina Shestak](#taking-on-genetically-evolving-cellular-automata-with-javascript-by-irina-shestak)
+- [OpenComponents as microservices - SOA in the front-end world - by Matteo Figus](#opencomponents-as-microservices---soa-in-the-front-end-world-by-matteo-figus)
+- [Programming the JavaScript future](#programming-the-javascript-future-by-guillermo-rauch)
 
-
+#### Second day
+(Work in progress)
 
 
 -----
@@ -72,6 +77,13 @@
 
 ##### Recommended reads
 - [Awesome Electron - Sindre Sorhus](https://github.com/sindresorhus/awesome-electron)
+- [Electron Debug](https://github.com/sindresorhus/electron-debug)
+- [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate)
+- [Electron Reload](https://github.com/yan-foto/electron-reload)
+- [Electron Packager](https://github.com/electron-userland/electron-packager)
+- [Electron Builder](https://github.com/electron-userland/electron-builder)
+- [Electron Updater](https://github.com/evolvelabs/electron-updater)
+- [Electron Mocha](https://www.google.cl/search?q=electron-reload&oq=electron-reload&aqs=chrome..69i57j0.3280j0j1&sourceid=chrome&ie=UTF-8#q=Electron+Mocha)
 
 
 
@@ -208,3 +220,9 @@
 
 ##### Recommended reads
 - [-](-)
+
+
+
+------
+# Second Day
+------
