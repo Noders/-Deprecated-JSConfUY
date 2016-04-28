@@ -1,228 +1,273 @@
-# JSConf Uruguay - Talks
+# JSConf Uruguay 2016 - Talks
 
 ![](https://cdn.rawgit.com/fforres/JSConfUY/master/small-logo.svg)
 
-# Talks
 
-#### Second day
-- [The !future of JS. - by Alejandro Oviedo](#the-future-of-js)
-- [Let's Talk About Midi - by Ruth John](#lets-talk-about-midi)
-- [Cross-Platform Desktop Apps with Electron - by David Neal](#cross-platform-desktop-apps-with-electron)
-- [Debugging JavaScript with Chrome DevTools - by Matt Zeunert](#debugging-javascript-with-chrome-devtools)
-- [Lateralus: A Distributed Relay System In Javascript - by Raul Pino](#lateralus-a-distributed-relay-system-in-javascript)
-- [Taking on Genetically Evolving Cellular Automata with JavaScript - by Irina Shestak](#taking-on-genetically-evolving-cellular-automata-with-javascript)
-- [Real time front-end alchemy - by Soledad Penadés](#real-time-front-end-alchemy)
-- [Why Johnny cant't collect browser errors - by Ben Vinegar](#why-johnny-cantt-collect-browser-errors-by-ben-vinegar)
-- [Taking on Genetically Evolving Cellular Automata with JavaScript - by Irina Shestak](#taking-on-genetically-evolving-cellular-automata-with-javascript-by-irina-shestak)
-- [OpenComponents as microservices - SOA in the front-end world - by Matteo Figus](#opencomponents-as-microservices---soa-in-the-front-end-world-by-matteo-figus)
-- [Programming the JavaScript future](#programming-the-javascript-future-by-guillermo-rauch)
-
-#### Second day
-(Work in progress)
-
-
------
-
-
-
-### <a name="the-future-of-js"></a>The !future of JS.  by [Alejandro Oviedo](github.com/a0viedo)
-
-##### Slides
-- [http://slides.com/a0viedo/the-future-of-js](http://slides.com/a0viedo/the-future-of-js)
-
-##### Recommended reads
-- [Understanding ES6 - Nicholas Zakas](https://leanpub.com/understandinges6/read)
-- [Exploring ES6 - Axel Rauschmayer](http://exploringjs.com/)
-- [YDKJS: ES6 & Beyond - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
-- [Javascript at 20 - Brendan Eich](https://brendaneich.github.io/ModernWeb.tw-2015/)
-- [Virtual Machines, Js and Assembler - Scott Hanselman](https://www.youtube.com/watch?v=UzyoT4DziQ4&feature=youtu.be)
-- [Evolution of Js III](https://vimeo.com/123546533)
+### Second day
+- [Design Decisions in JSPM](#design-decisions-in-jspm)
+- [Statistical Programming with JavaScript](#statistical-programming-with-javascript)
+- [ELM => javascript, How to Enjoy Functional Programming in ES5](#elm-javascript-how-to-enjoy-functional-programming-in-es5)
+- [Building Graphical Command Line Applications in JavaScript](#building-graphical-command-line-applications-in-javaScript)
+- [Scientific Computing With JavaScript](#scientific-computing-with-javascript)
+- [Isomorphic Universal JavasScript](#isomorphic-universal-javascript)
+- [Code at the Speed of Light: Content Delivery Network for JavaScripters](#code-at-the-speed-of-light-content-delivery-network-for-javascripters)
+- [Code at the Speed of Light: Content Delivery Network for JavaScripters](#code-at-the-speed-of-light-content-delivery-network-for-javascripters)
+- [Web Compatible JavaScript and CSS](web-compatible-javascript-and-css)
+- [ReactJS: Tips and Tricks to create accessible SVG components](reactjs-tips-and-tricks-to-create-accessible-svg-components)
+- [Node.js Releases, how do they work?](node-js-releases-how-do-they-work)
+- [How the Node Project Works](how-the-node-project-works)
 
 
 
 
-
------
-
+_____
 
 
 
 
-
-###  <a name="lets-talk-about-midi"></a>Let's Talk About Midi by [Ruth John](https://github.com/Rumyra)
+### <a name="design-decisions-in-jspm"></a>Design Decisions in JSPM.  by [Guy Bedford](https://github.com/guybedford)
 
 ##### Slides
-- [https://github.com/Rumyra/MIDI-Talk/tree/JSConfUY](https://github.com/Rumyra/MIDI-Talk/tree/JSConfUY)
+- N/A
 
 ##### Recommended reads
-- [Dinosaurs!](http://www.blackgangchine.com)
-- [Madeons Adventure Machine](https://t.co/ZATXpebtBj/)
-- [Timing Model Object API Draft](https://t.co/GOMd13QF2i)
-- [Other audio & MIDI examples](http://webaudiodemos.appspot.com/)
-- [Code for generating an oscillator based on MIDI input](https://t.co/TUFVuylxWC)
+- N/A
 
 
 
 
------
+_______
 
 
 
 
 
-### Cross-Platform Desktop Apps with Electron by [David Neal](https://github.com/reverentgeek/reverentgeek)
+###  <a name="statistical-programming-with-javascript"></a>Statistical Programming with JavaScript. by [David Simons](https://github.com/swamwithturtles)
 
 ##### Slides
-- [http://www.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron-jsconf-uy](http://www.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron-jsconf-uy)
+- [http://www.slideshare.net/DavidSimons5/statistical-programming-with-javascript](http://www.slideshare.net/DavidSimons5/statistical-programming-with-javascript)
 
 ##### Recommended reads
-- [Awesome Electron - Sindre Sorhus](https://github.com/sindresorhus/awesome-electron)
-- [Electron Debug](https://github.com/sindresorhus/electron-debug)
-- [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate)
-- [Electron Reload](https://github.com/yan-foto/electron-reload)
-- [Electron Packager](https://github.com/electron-userland/electron-packager)
-- [Electron Builder](https://github.com/electron-userland/electron-builder)
-- [Electron Updater](https://github.com/evolvelabs/electron-updater)
-- [Electron Mocha](https://www.google.cl/search?q=electron-reload&oq=electron-reload&aqs=chrome..69i57j0.3280j0j1&sourceid=chrome&ie=UTF-8#q=Electron+Mocha)
-
-
-
------
-
-
-
-
-
-### Debugging JavaScript with Chrome DevTools by [Matt Zeunert](https://github.com/mattzeunert)
-##### Slides
-- [http://www.mattzeunert.com/talks/js-debugging/index.html](http://www.mattzeunert.com/talks/js-debugging/index.html)
-##### Recommended reads
-
-###### Custom Object Formatters
-- [Custom Object Formatters](https://docs.google.com/document/d/1FTascZXT9cxfetuPRT2eXPQKXui4nWFivUnS_335T3U/preview)
-- [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
-- [Immutable Object Formatter (Chrome Extension)](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog)
-
-###### Behaviour-based Breakpoints
-- [Conditional Breakpoints in Chrome](https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/add-breakpoints?hl=en#create-conditional-breakpoints)
-- [Debugging snippets (Break on object property access, trace calls)](https://github.com/paulirish/devtools-addons/wiki/Snippets)
-- [JavaScript Breakpoint Collection (Chrome Extension)](https://chrome.google.com/webstore/detail/javascript-breakpoint-col/kgpjjblahlmjlfljfpcneapmeblichbp)
-
-###### Remote Debugging
-- [Node-inspector / node-debug (Use DevTools with Node)](https://github.com/node-inspector/node-inspector)
-- [Debugging pages on an Android phone](https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging)
-- [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/)
-- [Dev Tools Tips (with gifs!)](https://umaar.com/dev-tips/1)
-
-
-
-
------
-
-
-
-
-### Lateralus: A Distributed Relay System In Javascript by [Raul Pino](https://github.com/p1nox)
-##### Slides
-- [https://speakerdeck.com/p1nox/project-lateralus-a-distributed-relay-system-in-javascript](https://speakerdeck.com/p1nox/project-lateralus-a-distributed-relay-system-in-javascript)
-
-##### Recommended reads
+- Name
+##### Code and examples
+- [http://swamwithturtles.github.io/js-statistics/](http://swamwithturtles.github.io/js-statistics/)
 
 
 
 
 
 
-------
 
 
-
-
-### Real time front-end alchemy by [Soledad Penadés](http://github.com/sole)
-##### Slides
-- [https://soledadpenades.com/files/t/2016_rtalchemy/#1](https://soledadpenades.com/files/t/2016_rtalchemy/#1)
-
-##### Recommended reads
-- [Record almost everything in the browser with MediaRecorder](https://hacks.mozilla.org/2016/04/record-almost-everything-in-the-browser-with-mediarecorder/)
-- [Media recorder examples collection](https://github.com/mozdevs/MediaRecorder-examples)
-- [Boo! - Realtime Video Booth using WebGL, Web Audio and MediaRecorder - no plugins!](https://mozdevs.github.io/boo/)
-- [MDN MediaRecorder API documentation](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder_API)
-- [Repository](https://github.com/lrlna/jsconf-uy-automata)
+_______
 
 
 
 
 
------
 
 
+###  <a name="elm-javascript-how-to-enjoy-functional-programming-in-es5"></a>ELM => javascript, How to Enjoy Functional Programming in ES5. by [Juan Caicedo](https://github.com/juancaicedo)
 
-
-### Why Johnny cant't collect browser errors by [Ben Vinegar](https://github.com/benvinegar)
-##### Slides
-- [https://speakerdeck.com/benvinegar/javascript-error-reporting-and-why-we-cant-have-nice-things](https://speakerdeck.com/benvinegar/javascript-error-reporting-and-why-we-cant-have-nice-things)
-
-##### Recommended reads
-- [Sentry](https://www.getsentry.com/about/)
-- [StackTrace.JS](http://www.stacktracejs.com/)
-- [TraceKit](https://github.com/csnover/TraceKit)
-- [Ben Vinegar's Twitter - @bentlegen](https://twitter.com/bentlegen)
-
-
-
-
-------
-
-
-
-
-### Taking on Genetically Evolving Cellular Automata with JavaScript by [Irina Shestak](https://github.com/lrlna)
 
 ##### Slides
-- [http://tiny.cc/orbuay](http://tiny.cc/orbuay)
+- [http://www.juancaicedo.com/elm-to-js-slides/#/](http://www.juancaicedo.com/elm-to-js-slides/#/)
+
 
 ##### Recommended reads
-- [Slides](http://lrlna.github.io/jsconf-uy-automata/#1)
-- [Repo](https://github.com/lrlna/jsconf-uy-automata)
+- [Blog post](http://engineering.fluencia.com/blog/elm-to-javascript/)
+- [Elm in javascript](https://github.com/kaleidos/olmo/)
+- [Redux](http://redux.js.org/)
+
+
+##### Code and examples
+- [Demo](http://www.juancaicedo.com/elm-to-js/)
+
+
+
+
+_______
 
 
 
 
 
-------
-
-
-
-
-### OpenComponents as microservices - SOA in the front-end world by [Matteo Figus](https://github.com/matteofigus)
+###  <a name="building-graphical-command-line-applications-in-javaScript"></a>Building Graphical Command Line Applications in JavaScript. by [Patrick Kettner](https://github.com/patrickkettner)
 
 ##### Slides
-- [http://matteofigus.github.io/presentations/oc-jsconfuy/index.html#/](http://matteofigus.github.io/presentations/oc-jsconfuy/index.html#/)
+- N/A
 
 ##### Recommended reads
-- [OpenTable OpenComponents framework ](https://github.com/opentable/oc)
-- [OpenComponents Examples](https://github.com/matteofigus/oc-components-examples)
-- [Dismantling the monolith - Microsites at Opentable](http://tech.opentable.co.uk/blog/2015/02/09/dismantling-the-monolith-microsites-at-opentable/)
+- N/A
+
+##### Code and examples
+- N/A
+
+
+
+
+_______
 
 
 
 
 
-------
-
-
-
-
-### Programming the JavaScript future by [Guillermo Rauch](https://github.com/rauchg)
+###  <a name="scientific-computing-with-javascript"></a>Scientific Computing With JavaScript. by [Leonardo Val](https://twitter.com/creatartis)
 
 ##### Slides
-- [Not Avaliable](-)
+- N/A
 
 ##### Recommended reads
-- [-](-)
+- N/A
+
+##### Code and examples
+- N/A
 
 
 
-------
-# Second Day
-------
+
+
+
+_______
+
+
+
+
+
+
+###  <a name="isomorphic-universal-javascript"></a>Isomorphic Universal JavasScript. by [Federico Kereki](https://twitter.com/creatartis)
+
+##### Slides
+- N/A
+
+##### Recommended reads
+- N/A
+
+##### Code and examples
+- N/A
+
+
+
+
+
+
+
+_______
+
+
+
+
+
+
+###  <a name="code-at-the-speed-of-light-content-delivery-network-for-javascripters"></a>Code at the Speed of Light: Content Delivery Network for JavaScripters. by [Clay Smith](https://github.com/smithclay)
+
+##### Slides
+- [https://speakerdeck.com/smithclay/javascript-code-at-the-speed-of-light](https://speakerdeck.com/smithclay/javascript-code-at-the-speed-of-light)
+
+##### Recommended reads
+- [https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/](https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/)
+- [http://httparchive.org/interesting.php#connections](http://httparchive.org/interesting.php#connections)
+- [http://dl.acm.org/citation.cfm?id=2482856](http://dl.acm.org/citation.cfm?id=2482856)
+- [http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/)
+- [https://github.com/cbas/grunt-rev](https://github.com/cbas/grunt-rev)
+
+##### Code and examples
+- N/A
+
+
+
+
+
+
+
+
+_______
+
+
+
+
+
+
+###  <a name="web-compatible-javascript-and-css"></a>Web Compatible JavaScript and CSS. by [Mike Taylor](https://github.com/miketaylr)
+
+##### Slides
+- [https://miketaylr.com/pres/jsconf-uy/](https://miketaylr.com/pres/jsconf-uy/)
+
+##### Recommended reads
+- [https://webcompat.com/](https://webcompat.com/)
+- [Chrome Cannary Edition](https://www.google.com/chrome/browser/canary.html)
+- [Safary Technology Edition](https://developer.apple.com/safari/technology-preview/)
+- [Edge Insider Preview](https://insider.windows.com/)
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+##### Code and examples
+- N/A
+
+
+
+
+
+
+
+_______
+
+
+
+
+
+
+
+###  <a name="reactjs-tips-and-tricks-to-create-accessible-svg-components"></a>ReactJS: Tips and Tricks to create accessible SVG components. by [Alan Souza](https://github.com/alansouzati)
+
+##### Slides
+- [http://grommet.github.io/jsconf2016/#home](http://grommet.github.io/jsconf2016/#home)
+
+##### Recommended reads
+- [SVG](https://developer.mozilla.org/es/docs/Web/SVG)
+- [Grommet.io](http://grommet.io/)
+- [Grommet Slack Channel](http://slackin.grommet.io/)
+
+##### Code and examples
+- N/A
+
+
+
+
+
+_______
+
+
+
+
+
+###  <a name="node-js-releases-how-do-they-work"></a>Node.js Releases, how do they work?. by [Myles Borins](https://github.com/thealphanerd)
+
+##### Slides
+- [https://kni.sh/jsconfuy-2016/](https://kni.sh/jsconfuy-2016/)
+
+##### Recommended reads
+- [http://semver.org/](http://semver.org/)
+
+
+
+
+
+
+
+
+_______
+
+
+
+
+
+
+
+###  <a name="how-the-node-project-works"></a>How the Node Project Works. by [Rod Vagg](https://github.com/rvagg)
+
+##### Slides
+- [http://www.slideshare.net/rvagg/jsconfuy-the-nodejs-project-rvagg/](http://www.slideshare.net/rvagg/jsconfuy-the-nodejs-project-rvagg/)
+
+##### Recommended reads
+- [http://opensource.org/](http://opensource.org/)
+- [http://nodejs.org/](http://nodejs.org/)
+- [NodeJS Working Groups/](https://nodejs.org/en/about/working-groups/)

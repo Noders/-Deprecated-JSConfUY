@@ -1,27 +1,25 @@
-# JSConf Uruguay - Talks
+# JSConf Uruguay 2016 - Talks
 
 ![](https://cdn.rawgit.com/fforres/JSConfUY/master/small-logo.svg)
 
-# Talks
 
-#### First day
+### First day
 - [The !future of JS. - by Alejandro Oviedo](#the-future-of-js)
 - [Let's Talk About Midi - by Ruth John](#lets-talk-about-midi)
 - [Cross-Platform Desktop Apps with Electron - by David Neal](#cross-platform-desktop-apps-with-electron)
 - [Debugging JavaScript with Chrome DevTools - by Matt Zeunert](#debugging-javascript-with-chrome-devtools)
 - [Lateralus: A Distributed Relay System In Javascript - by Raul Pino](#lateralus-a-distributed-relay-system-in-javascript)
-- [Taking on Genetically Evolving Cellular Automata with JavaScript - by Irina Shestak](#taking-on-genetically-evolving-cellular-automata-with-javascript)
 - [Real time front-end alchemy - by Soledad Penadés](#real-time-front-end-alchemy)
 - [Why Johnny cant't collect browser errors - by Ben Vinegar](#why-johnny-cantt-collect-browser-errors-by-ben-vinegar)
 - [Taking on Genetically Evolving Cellular Automata with JavaScript - by Irina Shestak](#taking-on-genetically-evolving-cellular-automata-with-javascript-by-irina-shestak)
 - [OpenComponents as microservices - SOA in the front-end world - by Matteo Figus](#opencomponents-as-microservices---soa-in-the-front-end-world-by-matteo-figus)
 - [Programming the JavaScript future](#programming-the-javascript-future-by-guillermo-rauch)
 
-#### Second day
-(Work in progress)
+
 
 
 -----
+
 
 
 
@@ -69,8 +67,7 @@
 
 
 
-
-### Cross-Platform Desktop Apps with Electron by [David Neal](https://github.com/reverentgeek/reverentgeek)
+### <a name="cross-platform-desktop-apps-with-electron"></a> Cross-Platform Desktop Apps with Electron by [David Neal](https://github.com/reverentgeek/reverentgeek)
 
 ##### Slides
 - [http://www.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron-jsconf-uy](http://www.slideshare.net/reverentgeek/crossplatform-desktop-apps-with-electron-jsconf-uy)
@@ -87,13 +84,13 @@
 
 
 
+
 -----
 
 
 
 
-
-### Debugging JavaScript with Chrome DevTools by [Matt Zeunert](https://github.com/mattzeunert)
+### <a name="debugging-javascript-with-chrome-devtools"></a> Debugging JavaScript with Chrome DevTools by [Matt Zeunert](https://github.com/mattzeunert)
 ##### Slides
 - [http://www.mattzeunert.com/talks/js-debugging/index.html](http://www.mattzeunert.com/talks/js-debugging/index.html)
 ##### Recommended reads
@@ -122,7 +119,7 @@
 
 
 
-### Lateralus: A Distributed Relay System In Javascript by [Raul Pino](https://github.com/p1nox)
+### <a name="lateralus-a-distributed-relay-system-in-javascript"></a> Lateralus: A Distributed Relay System In Javascript by [Raul Pino](https://github.com/p1nox)
 ##### Slides
 - [https://speakerdeck.com/p1nox/project-lateralus-a-distributed-relay-system-in-javascript](https://speakerdeck.com/p1nox/project-lateralus-a-distributed-relay-system-in-javascript)
 
@@ -138,7 +135,7 @@
 
 
 
-### Real time front-end alchemy by [Soledad Penadés](http://github.com/sole)
+### <a name="real-time-front-end-alchemy"></a> Real time front-end alchemy by [Soledad Penadés](http://github.com/sole)
 ##### Slides
 - [https://soledadpenades.com/files/t/2016_rtalchemy/#1](https://soledadpenades.com/files/t/2016_rtalchemy/#1)
 
@@ -158,7 +155,7 @@
 
 
 
-### Why Johnny cant't collect browser errors by [Ben Vinegar](https://github.com/benvinegar)
+### <a name="why-johnny-cantt-collect-browser-errors-by-ben-vinegar"></a> Why Johnny cant't collect browser errors by [Ben Vinegar](https://github.com/benvinegar)
 ##### Slides
 - [https://speakerdeck.com/benvinegar/javascript-error-reporting-and-why-we-cant-have-nice-things](https://speakerdeck.com/benvinegar/javascript-error-reporting-and-why-we-cant-have-nice-things)
 
@@ -176,7 +173,7 @@
 
 
 
-### Taking on Genetically Evolving Cellular Automata with JavaScript by [Irina Shestak](https://github.com/lrlna)
+### <a name="taking-on-genetically-evolving-cellular-automata-with-javascript-by-irina-shestak"></a> Taking on Genetically Evolving Cellular Automata with JavaScript by [Irina Shestak](https://github.com/lrlna)
 
 ##### Slides
 - [http://tiny.cc/orbuay](http://tiny.cc/orbuay)
@@ -188,13 +185,12 @@
 
 
 
-
 ------
 
 
 
 
-### OpenComponents as microservices - SOA in the front-end world by [Matteo Figus](https://github.com/matteofigus)
+### <a name="opencomponents-as-microservices---soa-in-the-front-end-world-by-matteo-figus"></a> OpenComponents as microservices - SOA in the front-end world by [Matteo Figus](https://github.com/matteofigus)
 
 ##### Slides
 - [http://matteofigus.github.io/presentations/oc-jsconfuy/index.html#/](http://matteofigus.github.io/presentations/oc-jsconfuy/index.html#/)
@@ -213,16 +209,10 @@
 
 
 
-### Programming the JavaScript future by [Guillermo Rauch](https://github.com/rauchg)
+### <a name="programming-the-javascript-future-by-guillermo-rauch"></a> Programming the JavaScript future by [Guillermo Rauch](https://github.com/rauchg)
 
 ##### Slides
 - [Not Avaliable](-)
 
 ##### Recommended reads
 - [-](-)
-
-
-
-------
-# Second Day
-------
