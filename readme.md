@@ -1,9 +1,7 @@
 # JSConf Uruguay - Talks
 
-![](https://cdn.rawgit.com/fforres/JSConfUY/master/small-logo.svg)
+![http://jsconf.uy](https://cdn.rawgit.com/fforres/JSConfUY/master/small-logo.svg)
 
-# Talks
 
-#### First day
-- [Primer Día](./primer_dia.md)
-- [Segundo Día](./segundo_dia.md)
+- # [First Day](./primer_dia.md)
+- # [Second Day](./segundo_dia.md)
