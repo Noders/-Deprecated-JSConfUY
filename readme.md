@@ -19,5 +19,5 @@ This small repo is to keep track of every talk related to the latest [JSConf.uy]
 
 So without any other delay, go for the talks just click in a day (or a talk):
 
-- ### [First Day](./primer_dia.md)
-- ### [Second Day](./segundo_dia.md)
+- [First Day](./primer_dia.md)
+- [Second Day](./segundo_dia.md)
