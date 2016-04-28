@@ -1,10 +1,9 @@
-# JSConf Uruguay - Talks
+# JSConf Uruguay 2016 - Talks
 
 ![](https://cdn.rawgit.com/fforres/JSConfUY/master/small-logo.svg)
 
-# Talks
 
-#### Second day
+### Second day
 - [Design Decisions in JSPM](#design-decisions-in-jspm)
 - [Statistical Programming with JavaScript](#statistical-programming-with-javascript)
 - [ELM => javascript, How to Enjoy Functional Programming in ES5](#elm-javascript-how-to-enjoy-functional-programming-in-es5)
@@ -19,7 +18,12 @@
 - [How the Node Project Works](how-the-node-project-works)
 
 
+
+
 _____
+
+
+
 
 ### <a name="design-decisions-in-jspm"></a>Design Decisions in JSPM.  by [Guy Bedford](https://github.com/guybedford)
 
