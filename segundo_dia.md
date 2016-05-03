@@ -31,7 +31,7 @@ _____
 - N/A
 
 ##### Recommended reads
-- N/A
+- <http://jspm.io/>
 
 
 
@@ -101,7 +101,8 @@ _______
 - N/A
 
 ##### Code and examples
-- N/A
+- <https://github.com/patrickkettner/bandera.uy>
+- <https://github.com/chjj/blessed>
 
 
 
